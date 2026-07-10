@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Project-specific ignored data (Raw and preprocessed large images)
+data/input_images/
+data/ocr/preprocessed_images/
+
+# Streamlit config / cache
+.streamlit/
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
